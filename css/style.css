@@ -5,15 +5,21 @@
     --dark: #12141D;
 }
 
-h2 h3{color: #7D9BCA;}
-
+h2 h3{color: #2F3229;}
+*{color:
+#042D29;
+}
 
 .tnt{
-color: #707CAA;
+color: #2F3229;
+}
+
+.tnt2{
+color: #2F3229;
 }
 
 .typed-text{
-color: #707CAA;
+color: #2F3229;
 }
 
 .back-to-top {
@@ -59,7 +65,7 @@ color: #707CAA;
 
 .btn.btn-primary,
 .btn.btn-secondary {
-    background-color: #707CAA;
+    background-color:#2F3229;
     border: solid;
     color: #FFFFFF;
 }
@@ -149,8 +155,13 @@ color: #707CAA;
 }
 
 #skill .nav-pills .nav-link.active {
-    background-color: #707CAA;
+    border: #2F3229 solid;
+    background-color: #2F3229;
     color: #FFFFFF;
+}
+
+.nav-pills{
+border: #2F3229 solid 2px;
 }
 
 #skill .tab-content hr {
