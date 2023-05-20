@@ -63,6 +63,10 @@ color: #2F3229;
     transition: .5s;
 }
 
+.btn-2{
+color: aqua;
+}
+
 .btn.btn-primary,
 .btn.btn-secondary {
     background-color:#2F3229;
