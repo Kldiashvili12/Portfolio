@@ -185,3 +185,8 @@ border: #2F3229 solid 2px;
 }
 
 
+.container-fluid{
+display: flex;
+justify-content: space-between;
+padding-right: 90px;
+}
